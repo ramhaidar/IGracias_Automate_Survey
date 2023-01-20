@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         IGracias Automate Survey
 // @namespace    http://tampermonkey.net/
-// @version      0.0.4
-// @updateURL    https://github.com/pixeltris/TwitchAdSolutions/raw/master/bypass/bypass.user.js
-// @downloadURL  https://github.com/pixeltris/TwitchAdSolutions/raw/master/bypass/bypass.user.js
+// @version      0.0.5
+// @updateURL    https://github.com/ramhaidar/IGracias_Automate_Survey/raw/main/IGracias_Automate_Survey.user.js
+// @downloadURL  https://github.com/ramhaidar/IGracias_Automate_Survey/raw/main/IGracias_Automate_Survey.user.js
 // @description  Auto Survey Script!
 // @author       NakHalal
 // @match        https://igracias.telkomuniversity.ac.id/survey/*
