@@ -7,5 +7,5 @@ Install Tampermonkey Extension for your browser.
 - https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 - https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 
-## Opent link below and Hit "Install"
+## Open link below and Hit "Install".
 https://github.com/ramhaidar/IGracias_Automate_Survey/raw/main/IGracias_Automate_Survey.user.js
